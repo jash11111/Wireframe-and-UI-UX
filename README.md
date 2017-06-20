@@ -9,5 +9,5 @@
   Tools used: Adobe experience, Photoshop, JustinMind Prototype 
 
 3.MRM UI testing:
-  Description: Internship at RushPCB Summer 2016 , Sample PPT from My Right Meal app UI testing
+  Description: Internship at RushPCB Summer 2016 , Sample PPT from My Right Meal app UI testingnncbdfg
 
